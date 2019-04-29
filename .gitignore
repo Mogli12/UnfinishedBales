@@ -1,41 +1,37 @@
-# Compiled Lua sources
-luac.out
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+# Folder config file
+Desktop.ini
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+~$*.*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+# =========================
+# Operating System Files
+# =========================
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# OSX
+# =========================
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+.DS_Store
+.AppleDouble
+.LSOverride
 
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes

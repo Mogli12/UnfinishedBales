@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="42">
+	<author>mogli</author>
+	<title>
+		<en>Unfinished Bales</en>
+	</title>
+	<description>
+		<en><![CDATA[
+Unfinished Bales
+]]></en>
+		<de><![CDATA[
+Unfinished Bales
+]]></de>
+		<fr><![CDATA[
+Unfinished Bales
+]]></fr>
+	</description>
+	<multiplayer supported="true"/>   
+	<iconFilename>store.dds</iconFilename>
+	<version>0.0.0.1</version>
+	<l10n filenamePrefix="modDesc_l10n">
+		<text name="ubVERSION">
+			<de>UnfinishedBales v0.0.0.1</de>
+			<en>UnfinishedBales v0.0.0.1</en>
+		</text>
+	</l10n>
+	<extraSourceFiles>
+		<sourceFile filename="unfinishedBales.lua" />
+		<sourceFile filename="unfinishedBalesRegister.lua" />
+	</extraSourceFiles>    
+</modDesc>
