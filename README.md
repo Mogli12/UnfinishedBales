@@ -2,7 +2,7 @@
 
 ## How to download?
 
-Just click here: [Latest version](https://github.com/Mogli12/UnfinishedBales/blob/master/FS19_VehicleControlAddon.zip?raw=true)
+Just click here: [Latest version](https://github.com/Mogli12/UnfinishedBales/blob/master/FS19_UnfinishedBales.zip?raw=true)
 
 ## Motivation
 I found it annoying to drive until the baler had exaclty 100% fill level. This small script allows you to unload bales already at 75% fill level.
